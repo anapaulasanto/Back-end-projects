@@ -23,7 +23,7 @@
  [Sistema de agenda telefônica](https://github.com/anapaulasanto/Codigos-em-C/blob/main/Sistema_agenda_telefonica.c)
   > Sistema de cadastro e pesquisa de contatos em agenda telefonica
 
-
+<br>
 
 #### Agenda de compromissos
 
@@ -43,6 +43,8 @@
 #### Agenda de contatos
 [Agenda telefônica](https://github.com/anapaulasanto/POO-Python/blob/main/Agenda-de-contatos.py)
  >  Agenda telefonica com seção para contatos profissionais e para contatos pessoais, sendo possivel cadastrar e visualizar as informações dos contatos.
+
+<br>
 
 #### Sistema de loja
 [Sistema de loja](https://github.com/anapaulasanto/Sistema-de-loja)
