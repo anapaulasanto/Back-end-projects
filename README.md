@@ -4,19 +4,6 @@
 <h2>📚 Aplicações</h2>
 
 - ## C
- #### Controle de consumo de eletrodomesticos
- [Sistema de controle de consumo de eletrodomésticos](https://github.com/anapaulasanto/Codigos-em-C/blob/main/Sistema_controle_de_consumo.c)
- 
- >  Sistema que mostra o consumo de energia em KWh dos eletrodomésticos do usuário
-
-<br>
-
-  #### Listagem de média dos alunos
- [Sistema de listagem de médias dos alunos](https://github.com/anapaulasanto/Codigos-em-C/blob/main/Sistema_dados_alunos.c)
- 
->  Sistema que mostra listagem de médias finais dos alunos
-
-<br>
 
  #### Agenda telefônica
            
@@ -36,6 +23,15 @@
 
  [Sistema de livraria](https://github.com/anapaulasanto/Codigos-em-C/blob/main/Sistemas_criacao_de_agenda_compromissos.c)
   >  Sistema de cadastro, consulta (por autor, por codigo ou por editora), visualização e remoção de livros
+
+<br>
+
+#### Pesquisa binaria
+
+ [Pesquisa binária](https://github.com/anapaulasanto/pesquisa-binaria/blob/main/pesquisa-binaria.c)
+ >  Realiza uma busca(pesquisa) binária de um elemento x em um vetor de N registros ordenados.
+
+<br>
 
 <br><br>
 
