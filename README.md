@@ -21,7 +21,7 @@
 
 #### Livraria
 
- [Sistema de livraria](https://github.com/anapaulasanto/Codigos-em-C/blob/main/Sistemas_criacao_de_agenda_compromissos.c)
+ [Sistema de livraria](https://github.com/anapaulasanto/C/blob/main/sistema_livraria.c)
   >  Sistema de cadastro, consulta (por autor, por codigo ou por editora), visualização e remoção de livros
 
 <br>
