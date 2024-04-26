@@ -59,11 +59,14 @@
 
 <br>
 
-#### Cadastro e listagem de produtos
-[Cadastro e listagem de produtos](https://github.com/anapaulasanto/Projeto-study-async)
- >  Aplicação feita utilizando Django, juntamente com o Bootstrap, em que é possivel adicionar produtos, excluir, acessar, e exibir os produtos cadastrados.
+#### Sistema biblioteca - (MongoDB)
+[Sistema biblioteca](https://github.com/anapaulasanto/sistema-biblioteca)
+ >  Aplicação feita utilizando pymongo, que gerencia uma coleção de livros em uma biblioteca. Ações possiveis:
+                <p>:white_small_square: Adicionar, buscar, editar e excluir livros.  </p>
+                <p> :white_small_square: Adicionar e remover informações por meio do terminal  </p>
 
 <br>
+
 
 
 <h2> 💻 Autor</h2>
