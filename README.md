@@ -1,25 +1,23 @@
 <h1 align="center">
   💻<br>Aplicações Back-end
 </h1>
-<h2>📚 Aplicações</h2>
 
 - ## Python
 
-#### Sistema biblioteca - (MongoDB)
-[Sistema biblioteca](https://github.com/anapaulasanto/sistema-biblioteca)
+[Sistema biblioteca](https://github.com/anapaulasanto/sistema-biblioteca) - (MongoDB)
+
  >  Aplicação feita utilizando pymongo, que gerencia uma coleção de livros em uma biblioteca. Ações possiveis:
                 <p>:white_small_square: Adicionar, buscar, editar e excluir livros.  </p>
                 <p> :white_small_square: Adicionar e remover informações por meio do terminal  </p>
 
 <br>
 
-#### Automatização de preenchimento de formulário - (Pyautogui)
-[Automatização](https://github.com/anapaulasanto/automacao-py)
+[Automatização](https://github.com/anapaulasanto/automacao-py) - (Pyautogui)
+
  >  Aplicação feita para automatizar o preenchimento de um formulário online com dados de produtos a partir de um arquivo CSV.
 
 <br>
 
-#### Sistema de loja
 [Sistema de loja](https://github.com/anapaulasanto/Sistema-de-loja)
  > Sistema de uma loja com ações de:
                 <p>:white_small_square: Cadastro de cliente padrão e especial </p>
@@ -29,41 +27,6 @@
                 <p> :white_small_square: Visualização de produtos, carrinho de compras e lista de clientes cadastrados </p>
 
 <br>
-
-
-
-- ## C
-
- #### Agenda telefônica
-           
- [Sistema de agenda telefônica](https://github.com/anapaulasanto/Codigos-em-C/blob/main/Sistema_agenda_telefonica.c)
-  > Sistema de cadastro e pesquisa de contatos em agenda telefonica
-
-<br>
-
-#### Agenda de compromissos
-
- [Sistema de agenda de compromissos](https://github.com/anapaulasanto/Codigos-em-C/blob/main/Sistemas_criacao_de_agenda_compromissos.c)
- >  Sistema de criação de agenda para compromissos diários
-
-<br>
-
-#### Livraria
-
- [Sistema de livraria](https://github.com/anapaulasanto/C/blob/main/sistema_livraria.c)
-  >  Sistema de cadastro, consulta (por autor, por codigo ou por editora), visualização e remoção de livros
-
-<br>
-
-#### Pesquisa binaria
-
- [Pesquisa binária](https://github.com/anapaulasanto/pesquisa-binaria/blob/main/pesquisa-binaria.c)
- >  Realiza uma busca(pesquisa) binária de um elemento x em um vetor de N registros ordenados.
-
-<br>
-
-<br><br>
-
 
 
 <h2> 💻 Autor</h2>
