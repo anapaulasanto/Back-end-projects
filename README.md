@@ -3,6 +3,35 @@
 </h1>
 <h2>📚 Aplicações</h2>
 
+- ## Python
+
+#### Sistema biblioteca - (MongoDB)
+[Sistema biblioteca](https://github.com/anapaulasanto/sistema-biblioteca)
+ >  Aplicação feita utilizando pymongo, que gerencia uma coleção de livros em uma biblioteca. Ações possiveis:
+                <p>:white_small_square: Adicionar, buscar, editar e excluir livros.  </p>
+                <p> :white_small_square: Adicionar e remover informações por meio do terminal  </p>
+
+<br>
+
+#### Automatização de preenchimento de formulário - (Pyautogui)
+[Automatização](https://github.com/anapaulasanto/automacao-py)
+ >  Aplicação feita para automatizar o preenchimento de um formulário online com dados de produtos a partir de um arquivo CSV.
+
+<br>
+
+#### Sistema de loja
+[Sistema de loja](https://github.com/anapaulasanto/Sistema-de-loja)
+ > Sistema de uma loja com ações de:
+                <p>:white_small_square: Cadastro de cliente padrão e especial </p>
+                <p> :white_small_square: Cadastro de produtos  </p>
+                <p> :white_small_square: Valor do carrinho de compras que difere para cliente padrão e especial </p>
+                <p> :white_small_square: Adição de produtos no carrinho de compras  </p>
+                <p> :white_small_square: Visualização de produtos, carrinho de compras e lista de clientes cadastrados </p>
+
+<br>
+
+
+
 - ## C
 
  #### Agenda telefônica
@@ -35,32 +64,7 @@
 
 <br><br>
 
-- ## Python
 
-#### Sistema biblioteca - (MongoDB)
-[Sistema biblioteca](https://github.com/anapaulasanto/sistema-biblioteca)
- >  Aplicação feita utilizando pymongo, que gerencia uma coleção de livros em uma biblioteca. Ações possiveis:
-                <p>:white_small_square: Adicionar, buscar, editar e excluir livros.  </p>
-                <p> :white_small_square: Adicionar e remover informações por meio do terminal  </p>
-
-<br>
-  
-#### Agenda de contatos
-[Agenda telefônica](https://github.com/anapaulasanto/POO-Python/blob/main/Agenda-de-contatos.py)
- >  Agenda telefonica com seção para contatos profissionais e para contatos pessoais, sendo possivel cadastrar e visualizar as informações dos contatos.
-
-<br>
-
-#### Sistema de loja
-[Sistema de loja](https://github.com/anapaulasanto/Sistema-de-loja)
- > Sistema de uma loja com ações de:
-                <p>:white_small_square: Cadastro de cliente padrão e especial </p>
-                <p> :white_small_square: Cadastro de produtos  </p>
-                <p> :white_small_square: Valor do carrinho de compras que difere para cliente padrão e especial </p>
-                <p> :white_small_square: Adição de produtos no carrinho de compras  </p>
-                <p> :white_small_square: Visualização de produtos, carrinho de compras e lista de clientes cadastrados </p>
-
-<br>
 
 <h2> 💻 Autor</h2>
 
