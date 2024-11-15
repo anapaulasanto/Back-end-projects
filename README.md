@@ -2,6 +2,16 @@
   💻<br>Aplicações Back-end
 </h1>
 
+- ## Node.js
+
+[Todo List](https://github.com/anapaulasanto/todo-backend)
+
+ >  Aplicação feita utilizando Node.js, Docker com Postgres e Prisma para a conexão com o banco de dados, utilizando o padrão MVC
+                <p>:white_small_square: Adicionar, buscar, editar e excluir tarefas.  </p>
+                
+
+<br>
+
 - ## Python
 
 [Sistema biblioteca](https://github.com/anapaulasanto/sistema-biblioteca) - (MongoDB)
